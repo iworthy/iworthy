@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://iworthy.github.io/images/code.jpg)
 <!--
 **iworthy/iworthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
